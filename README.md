@@ -9,7 +9,6 @@ Agents raised the floor for implementation. Product judgment and architectural t
 ### Right now
 
 - Building the Web SDK at [Storyteller](https://getstoryteller.com) for products used at serious scale
-- Part of the [Toptal](https://www.toptal.com/developers/resume/bassem-magdi) and [Arc](https://arc.dev) talent networks
 - Working across React, TypeScript, Python, cloud infrastructure, data systems, and AI agents
 
 ### Things I care too much about
@@ -21,4 +20,4 @@ Agents raised the floor for implementation. Product judgment and architectural t
 - Typography, motion, and tiny interactions
 - Products that understand how the business works
 
-Elsewhere: [X](https://x.com/_bassem1) · [Toptal](https://www.toptal.com/developers/resume/bassem-magdi) · [Arc](https://arc.dev) · [Email](mailto:bassemmagdy21@gmail.com)
+Elsewhere: [X](https://x.com/_bassem1) · [Email](mailto:bassemmagdy21@gmail.com)
